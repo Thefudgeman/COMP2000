@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">UI test 2</string>
+    <string name="Button">Button</string>
+    <string name="Login">Login</string>
+    <string name="Password">Password</string>
+    <string name="Email">Email</string>
+    <string name="ForgotPassword">Forgot Password?</string>
+    <string name="ForgotEmail">Forgot Email?</string>
+    <string name="Approved">Approved</string>
+    <string name="RequestDates" tools:ignore="Typos">Date1 - Date2</string>
+    <string name="ApprovalStatus">Approval Status</string>
+    <string name="HolidayDateRequested">Holiday Date Requested</string>
+    <string name="ManageHolidays">Manage Holidays</string>
+    <string name="ViewDetails">View Details</string>
+    <string name="Open">Open Navigation Drawer</string>
+    <string name="Close">Close Navigation Drawer</string>
+    <string name="Home">Home</string>
+    <string name="PaidLeave">Paid Leave</string>
+    <string name="ReasonForHoliday">Reason For Holiday</string>
+    <string name="ChooseDate">Choose Date</string>
+    <string name="ApprovedHolidays">Approved Holidays</string>
+    <string name="Reason">Reason</string>
+</resources>
